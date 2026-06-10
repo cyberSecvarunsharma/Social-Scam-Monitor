@@ -1,0 +1,10 @@
+flask
+telethon
+yt-dlp
+instaloader
+tweepy
+opencv-python
+numpy
+pytesseract
+pillow
+requests
