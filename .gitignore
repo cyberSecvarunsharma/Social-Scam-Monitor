@@ -18,3 +18,4 @@ dashboard/scam_data.db
 .DS_Store
 test_*.py
 test_*.png
+telegram_config.json
